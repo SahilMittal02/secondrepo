@@ -1,9 +1,0 @@
-name: Python3.9 
-channels:
-  - anaconda
-  - defaults
-dependencies:
-  - numpy
-  - pandas
-  - matplotlib
-  - pip
