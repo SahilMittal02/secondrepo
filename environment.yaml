@@ -1,0 +1,9 @@
+name: SecondRepoEnv 
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - pip
